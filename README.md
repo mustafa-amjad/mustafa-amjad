@@ -1,54 +1,30 @@
-<h1 align="center">Hi, I'm Mustafa Amjad 👋</h1>
-<h3 align="center">AI Developer & Data Scientist | Founder @ 6 Forge</h3>
+## Hi, I'm Mustafa Amjad
 
-<p align="center">
-  Building intelligent agents, RAG pipelines, and full-stack web solutions from Lahore, Pakistan.
-</p>
+**AI Engineer · Co-Founder of [TaskQo](https://taskqo.com)**
 
----
+I build AI systems that take repeat work off a business's plate: AI agents, RAG chatbots, voice assistants and automation. I'm based in Lahore, Pakistan, and work with clients in the US, UK, Germany, Australia and the Netherlands.
 
-### 🤖 AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic_SDK-191919?style=flat&logoColor=white)
+- Co-Founder of **TaskQo**, AI workforce monitoring for call centers, BPOs and remote teams
+- 4.8+ rating across 40+ completed orders on [Fiverr](https://www.fiverr.com/mustafa0143): Python automation, AI integrations and WooCommerce
+- BS Data Science, KFUEIT
 
-### 🌐 Web Development
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white)
+### Projects
 
----
+| Project | What it does | Stack |
+|---|---|---|
+| [RAG Assistant Pro](https://github.com/mustafa-amjad/Rag-Chatbot) | Chat with your PDFs. Answers come only from the documents, with file and page sources. | LangChain · ChromaDB · Groq · Streamlit |
+| [Speech-to-Speech AI](https://github.com/mustafa-amjad/Speech-to-Speech) | Speak, and an AI answers out loud: Whisper, then an LLM, then a voice. | faster-whisper · Groq · Piper / gTTS |
+| [ChurnSight](https://github.com/mustafa-amjad/telco-churn-prediction) | Flags telecom customers likely to cancel, with SHAP explanations and a tuned threshold. | scikit-learn · XGBoost · SHAP · Streamlit |
+| [Groq Chatbot](https://github.com/mustafa-amjad/Chatbot) | A conversational chatbot with memory, a model picker and chat export. | LangChain · Groq · Streamlit |
+| [Loan Approval Prediction](https://github.com/mustafa-amjad/Loan-Prediction-Application) | Predicts loan approval with a full scikit-learn pipeline and live metrics. | scikit-learn · Streamlit |
 
-### 🚀 Featured Projects
+### Stack
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [DataGenie Pro](https://github.com/mustafa-amjad/datagenie-pro) | NL-to-SQL data analyst agent | LangChain · Groq · Streamlit · SQLite |
-| [JARVIS Agent](https://github.com/mustafa-amjad/jarvis-agent) | Desktop AI agent with 20+ tools | Anthropic SDK · Python |
-| [Speech-to-Speech AI](https://github.com/mustafa-amjad/speech-to-speech) | End-to-end voice AI pipeline | Whisper · Groq · Piper TTS |
-| [RAG Chatbot](https://github.com/mustafa-amjad/rag-chatbot) | Retrieval-augmented chatbot | FAISS · LangChain · Streamlit |
-| [Baghbaan Dashboard](https://github.com/mustafa-amjad/baghbaan-dashboard) | Investor dashboard for agroforestry project | Python · Plotly |
-| [AI Search Engine](https://github.com/mustafa-amjad/ai-search-engine) | AI-powered search (in progress) | Python · LangChain |
+**AI & LLMs:** LangChain · RAG · Groq · Anthropic SDK · OpenAI API · FAISS · ChromaDB · CrewAI · Prompt engineering<br>
+**ML & data:** Python · SQL · scikit-learn · TensorFlow / Keras · XGBoost · pandas · NumPy · Power BI<br>
+**Voice:** faster-whisper · Piper TTS · gTTS<br>
+**Apps & web:** Streamlit · FastAPI · REST APIs · Selenium · WordPress / WooCommerce · Git · Linux
 
----
+### Contact
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafa-amjad&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-amjad&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
-### 📬 Connect
-
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white)](https://www.fiverr.com/mustafa0143)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mustafaamjad9)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](gorayamustafa9@email.com)
+[LinkedIn](https://www.linkedin.com/in/mustafaamjad9) · [Fiverr](https://www.fiverr.com/mustafa0143) · [WhatsApp](https://wa.me/923199493283)
