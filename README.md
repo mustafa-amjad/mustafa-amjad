@@ -10,13 +10,13 @@ I build AI systems that take repeat work off a business's plate: AI agents, RAG 
 
 ### Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| [RAG Assistant Pro](https://github.com/mustafa-amjad/Rag-Chatbot) | Chat with your PDFs. Answers come only from the documents, with file and page sources. | LangChain · ChromaDB · Groq · Streamlit |
-| [Speech-to-Speech AI](https://github.com/mustafa-amjad/Speech-to-Speech) | Speak, and an AI answers out loud: Whisper, then an LLM, then a voice. | faster-whisper · Groq · Piper / gTTS |
-| [ChurnSight](https://github.com/mustafa-amjad/telco-churn-prediction) | Flags telecom customers likely to cancel, with SHAP explanations and a tuned threshold. | scikit-learn · XGBoost · SHAP · Streamlit |
-| [Groq Chatbot](https://github.com/mustafa-amjad/Chatbot) | A conversational chatbot with memory, a model picker and chat export. | LangChain · Groq · Streamlit |
-| [Loan Approval Prediction](https://github.com/mustafa-amjad/Loan-Prediction-Application) | Predicts loan approval with a full scikit-learn pipeline and live metrics. | scikit-learn · Streamlit |
+| Project | What it does | Stack | Demo |
+|---|---|---|---|
+| [RAG Assistant Pro](https://github.com/mustafa-amjad/Rag-Chatbot) | Chat with your PDFs. Answers come only from the documents, with file and page sources. | LangChain · ChromaDB · Groq · Streamlit | [Live](https://rag-assistant-mustafa.streamlit.app) |
+| [Speech-to-Speech AI](https://github.com/mustafa-amjad/Speech-to-Speech) | Speak, and an AI answers out loud: Whisper, then an LLM, then a voice. | faster-whisper · Groq · Piper / gTTS | [Live](https://voice-assistant-mustafa.streamlit.app) |
+| [ChurnSight](https://github.com/mustafa-amjad/telco-churn-prediction) | Flags telecom customers likely to cancel, with SHAP explanations and a tuned threshold. | scikit-learn · XGBoost · SHAP · Streamlit | [Live](https://churnsight-mustafa.streamlit.app) |
+| [Groq Chatbot](https://github.com/mustafa-amjad/Chatbot) | A conversational chatbot with memory, a model picker and chat export. | LangChain · Groq · Streamlit | [Live](https://chatbot-mustafa-amjad.streamlit.app) |
+| [Loan Approval Prediction](https://github.com/mustafa-amjad/Loan-Prediction-Application) | Predicts loan approval with a full scikit-learn pipeline and live metrics. | scikit-learn · Streamlit | [Live](https://loan-predictor-mustafa.streamlit.app) |
 
 ### Stack
 
