@@ -12,6 +12,7 @@ I build AI systems that take repeat work off a business's plate: AI agents, RAG 
 
 | Project | What it does | Stack | Demo |
 |---|---|---|---|
+| [DocMind](https://github.com/mustafa-amjad/Doc-Mind-Rag) | Chat with your documents. Hybrid search (BM25 + vector), cross-encoder re-ranking, numbered citations, user accounts and saved chats. | FAISS · BM25 · Groq · Streamlit | [Live](https://docmind-mustafa.streamlit.app) |
 | [RAG Assistant Pro](https://github.com/mustafa-amjad/Rag-Chatbot) | Chat with your PDFs. Answers come only from the documents, with file and page sources. | LangChain · ChromaDB · Groq · Streamlit | [Live](https://rag-assistant-mustafa.streamlit.app) |
 | [Speech-to-Speech AI](https://github.com/mustafa-amjad/Speech-to-Speech) | Speak, and an AI answers out loud: Whisper, then an LLM, then a voice. | faster-whisper · Groq · Piper / gTTS | [Live](https://voice-assistant-mustafa.streamlit.app) |
 | [ChurnSight](https://github.com/mustafa-amjad/telco-churn-prediction) | Flags telecom customers likely to cancel, with SHAP explanations and a tuned threshold. | scikit-learn · XGBoost · SHAP · Streamlit | [Live](https://churnsight-mustafa.streamlit.app) |
